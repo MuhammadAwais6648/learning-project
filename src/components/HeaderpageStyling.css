@@ -1,0 +1,27 @@
+.css-8es85j-MuiPaper-root{
+    text-align: start !important;
+}
+.content-wraper h4{
+    margin-top: 0px !important;
+}
+.content-wraper{
+    background-color: rgb(204, 187, 212) !important;
+
+}
+.content-wraper p{
+    margin: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-wraper{
+      background-color: rgb(218, 190, 12) !important;
+
+}
+.icon-wraper{
+    justify-items: center;
+    display: flex;
+}
+.p-wraper{
+    align-items: end;
+}
